@@ -110,9 +110,9 @@ List<Admin> adminstrator = new List<Admin>
 Console.WriteLine(Logostart);
 Console.Write("are you admin (yes/no): ");
 string? isadmin = Console.ReadLine();
-Console.Write("Enter Your User Name : ");
+Console.Write("enter your user name : ");
 string? username = Console.ReadLine();
-Console.Write("Enter Your Password : ");
+Console.Write("enter your password : ");
 string? password = Console.ReadLine();
 
 
